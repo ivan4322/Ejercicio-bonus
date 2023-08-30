@@ -5,25 +5,25 @@ function diaSemana(dia) {
     switch (dia) {
          case 1:
             alert("Lel dia es lunes")
-        case 2:
+case 2:
             alert("el dia es Martes");
             break;
-        case 3:
+case 3:
             alert("el dia es Miércoles");
             break;
-        case 4:
+ case 4:
             alert ("Jel dia es jueves");
-            break;
-        case 5:
+         break;
+case 5:
            alert("el dia es Viernes");
             break;
-        case 6:
+ case 6:
             alert(" el dia es Sábado");
             break;
-        case 7:
+ case 7:
             alert (" el dia esDomingo");
             break;
-        default:
+default:
          alert("Valor inválido. Debe ser un número del 1 al 7.");
     }
 }
